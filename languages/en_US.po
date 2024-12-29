@@ -1256,7 +1256,7 @@ msgstr " Views"
 
 #: page.php:20 single.php:39
 msgid "编辑"
-msgstr ""
+msgstr "Edit"
 
 #: single.php:30 single.php:114
 msgid "共计"
