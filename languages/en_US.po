@@ -1443,3 +1443,6 @@ msgstr "5 days ago"
 
 msgid "六天前"
 msgstr "6 days ago"
+
+msgid "回复"
+msgstr "Reply"

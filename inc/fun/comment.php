@@ -61,7 +61,7 @@ function pk_comment_callback($comment, $args, $depth)
                     <a id="comment-reply-<?php comment_ID() ?>" data-id="<?php comment_ID() ?>"
                        class="hide-info animated bounceIn c-sub-a t-sm ml-1 comment-reply"
                        href="javascript:void(0)" title="回复此评论"><i class="fa fa-share-from-square"></i>
-                        <span class="comment-reply-text">回复</span></a>
+                        <span class="comment-reply-text"><?php _e('回复', PUOCK) ?></span></a>
                 <?php endif; ?>
             </div>
         </div>
